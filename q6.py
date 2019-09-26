@@ -18,7 +18,7 @@
 c, h = 50, 30
 valores = input("Informe os valores: ")
 d_string = valores.split(", ")
-
+ 
 
 for valor in d_string:
     d = int(valor)
