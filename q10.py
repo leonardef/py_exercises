@@ -20,4 +20,5 @@ for palavra in palavras:
         tmp = palavras
 
 tmp.sort()
-print(tmp)
+s = ' '
+print(s.join(tmp))
