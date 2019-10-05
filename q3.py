@@ -16,3 +16,6 @@ for numeros in range(1, num + 1):
     dic[numeros] = numeros * numeros 
 
 print(dic)
+
+
+print("Leo gay")
